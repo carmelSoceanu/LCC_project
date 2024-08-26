@@ -5,6 +5,11 @@ Language, Computation and Cognition Final Project
 
 This repository contains code and resources for analyzing structured, semistructured, and open-ended cognitive tasks using fMRI and EEG data. The project is divided into two main parts: structured and semistructured tasks, and open-ended tasks.
 
+## Authors
+
+Carmel Soceanu
+Peleg Michael
+
 ## Repository Structure
 
 - **Structured_and_Semistructured_Tasks.ipynb**: This Jupyter Notebook contains the analysis of structured and semistructured cognitive tasks. It includes data processing, model implementation, and results visualization for tasks that follow predefined structures.
@@ -26,5 +31,5 @@ The datasets used in this project are sourced from various studies on cognitive 
 
 The methodologies and neural architectures implemented in this project are inspired by the following works:
 
-- **Neural Architecture**: Inspired by Oota et al., 2018
+- **Neural Architecture**: Inspired by Oota et al., 2018, and Hollenstein et al., 2019
 - **General Methodology**: Inspired by Hollenstein et al., 2019
