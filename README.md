@@ -17,6 +17,18 @@ Peleg Michael
 
 - **Open_Ended_Task/**: This folder contains all the necessary scripts and resources for analyzing open-ended cognitive tasks. The approach here is more flexible and exploratory, allowing for varied and complex responses.
 
+  - **model_embeddings.ipynb**: This notebook creates embedding vectors for the different sentences and words data used in the open-ended cognitive tasks.
+  
+  - **Save Data.ipynb**: This notebook processes fMRI data by selecting a random subset of voxels for multiple participants across different experiments (Mitchell, Pereira, Toffolo) and saves the processed data into `.pkl` files. It uses the following Python modules:
+    - `Mitchell.py`
+    - `Pereira.py`
+    - `Toffolo.py`
+  
+  - **Save Graphs.ipynb**: This notebook generates various graphs using the data processed in the project, leveraging utility scripts and results from the analyses. It uses the following Python modules:
+    - `Utils.py`
+    - `Results.py`
+    - `Graphs.py`
+
 ## Data Sources
 
 The datasets used in this project are sourced from various studies on cognitive tasks:
