@@ -8,6 +8,7 @@ This repository contains code and resources for analyzing structured, semistruct
 ## Authors
 
 Carmel Soceanu
+
 Peleg Michael
 
 ## Repository Structure
