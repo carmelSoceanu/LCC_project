@@ -3,7 +3,7 @@ Language, Computation and Cognition Final Project
 
 ## Cognitive Task Analysis
 
-This repository contains code and resources for analyzing structured, semistructured, and open-ended cognitive tasks using fMRI and EEG data. The project is divided into two main parts: structured and semistructured tasks, and open-ended tasks.
+This repository contains code and resources for analyzing structured, semistructured, and open-ended cognitive tasks using fMRI and EEG data. The project is divided into two main parts: structured and semistructured tasks, and open-ended task.
 
 ## Authors
 
